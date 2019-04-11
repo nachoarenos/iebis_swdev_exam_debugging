@@ -1,9 +1,9 @@
 Bugs found:
 
-method used for replacing full stops
-" of the words inside the strings of the switch
-random method boundary
-There is a problem with String buffer word and the int of each case
+method used for replacing full stops;
+" of the words inside the strings of the switch;
+random method boundary;
+There is a problem with String buffer word and the int of each case;
 
 
 
