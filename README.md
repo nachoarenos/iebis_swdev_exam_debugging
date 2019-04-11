@@ -1,3 +1,12 @@
+Bugs found:
+
+method used for replacing full stops
+" of the words inside the strings of the switch
+random method boundary
+There is a problem with String buffer word and the int of each case
+
+
+
 # iebis_swdev_exam_debugging
 Somebody from administration wanted to create a random phrase generators and created the code that you can find in Main.java for this purpose.
 
